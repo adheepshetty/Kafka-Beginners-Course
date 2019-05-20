@@ -3,7 +3,7 @@
 This course was taught by Stepahne Maarek and was a beginner phase to kafka still covered a lot of topics related to Kafka like:
 <ul>
 <li>The Apache Kafka Ecosystem Architecture
-<li>The Kafka Core Concepts: Topics, Partitions, Brokers, Replicas, Producers, Consumers, and more!
+<li>The Kafka Core Concepts: Topics, Partitions, Brokers, Replicas, Producers, Consumers.
 <li>Launched Kafka cluster
 <li>Learned and Practiced using the Kafka Command Line Interface (CLI)
 <li>Coded for Producer and Consumers using the Java API 
