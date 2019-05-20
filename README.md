@@ -10,7 +10,7 @@ This course was taught by Stepahne Maarek and was a beginner phase to kafka stil
 <li>Used Twitter dependency to stream data as a source of data for a producer and ElasticSearch as a sink.
 <li>Overview of Advanced APIs (Kafka Connect, Kafka Streams)
 <li>Covered some Real World Case Studies and their solutions.
-<li>Gave an overview of Advanced Kafka for Administrators
+<li>Overview of Advanced Kafka for Administrators
 <li>And even some Advanced Topic Configurations
   
 ## Certificate
